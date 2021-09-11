@@ -1,7 +1,7 @@
 ### Hi, I'm Wildan 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I want to collaborate with more people
 - 🥅 2021 Goals: Contribute more to useful for others
 - ⚡ Fun fact: I like to eat
 
@@ -34,3 +34,7 @@
 
 ---
 <img align="left" alt="codeSTRACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildanFahri&show_icons=true&theme=radical&hide_border=true" />
+
+---
+
+![Screenshot Dashboard Oracle](img/dino.gif)
