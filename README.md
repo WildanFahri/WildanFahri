@@ -32,3 +32,5 @@
 <br />
 <br />
 
+---
+<img align="left" alt="codeSTRACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildanFahri&show_icons=true&theme=radical&hide_border=true" />
