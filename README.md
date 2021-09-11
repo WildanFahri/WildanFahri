@@ -37,4 +37,4 @@
 
 ---
 
-![Screenshot Dashboard Oracle](img/dino.gif)
+<img src="img/dino.gif">
